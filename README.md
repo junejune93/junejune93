@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000000&height=200&text=June's%20Space&fontColor=FEF1E6&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=June's%20Space&fontColor=FEF1E6&fontSize=50)
+<br>
+<br>
 <br>
 Hello!
 Thanks for visit my profile.
